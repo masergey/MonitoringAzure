@@ -1,5 +1,11 @@
 sword and spear
 and a lot of shields
 and the world will be changed
+<<<<<<< HEAD
 Shields by shields
 Hand by hand
+=======
+From the lines 
+Shield by shield
+Hand by hand
+>>>>>>> 77cc4530081dd937fe71e9167f65f89f78dcd9f7
